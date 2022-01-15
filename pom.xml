@@ -19,7 +19,7 @@
     <scm>
         <connection>scm:git:git@github.com:vijaylondhe/VersioningDemo.git</connection>
         <developerConnection>scm:git:git@github.com:vijaylondhe/VersioningDemo.git</developerConnection>
-        <url>https://github.com/kalaspuffar/VersioningDemo</url>
+        <url>https://github.com/vijaylondhe/VersioningDemo</url>
         <tag>@{project.version}</tag>
     </scm>
 
